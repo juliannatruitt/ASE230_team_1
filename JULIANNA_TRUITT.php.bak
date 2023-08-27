@@ -33,7 +33,7 @@
 	$summary = "I am a junior at Northern Kentucky University for the school year 2023-2024. Last fall I graduated from Gateway Community and Technical College with my Associate in Science. Currently I work as a nanny to three kids. When I am not working or at school I am probably reading, hanging out with my pet Gaara, or hanging out with my friends! If everything stays on track, I will graduate from Northern Kentucky University in May of 2025. I am majoring in Applied Software Engineering and minoring in Information Securtiy.";
 	$nanny_job = "Nanny";
 	$nanny_job_years = "2020-Present";
-	$nanny_job_desc = "Responsible for getting kids up and ready for school. Taking them to school and ensuring they get into the buildng on time. Afterschool I pick them up, help them with homework, and asses whatever needs they have until their mother returns home for work. Repeat those tasks Monday through Friday";
+	$nanny_job_desc = "Responsible for getting kids up and ready for school. Taking them to school and ensuring they get into the buildng on time. Afterschool I pick them up, help them with homework, and asses whatever needs they have until their mother returns home for work. Repeat those tasks Monday through Friday.";
 	$nanny_achievements_summary = "The ability to work with children and care for all their needs. 3x best nanny award winner (in the words of the children I watch!)";
 	$nanny_achievement_list_1 = "CPR Certified";
 	$nanny_achievement_list_2 = "Best Nanny Award 2023";
