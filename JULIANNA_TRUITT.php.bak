@@ -39,12 +39,6 @@
 	$nanny_achievement_list_2 = "Best Nanny Award 2023";
 	$nanny_achievement_list_3 = "Best Nanny Award 2022";
 	$nanny_achievement_list_4 = "Best Nanny Award 2021";
-	$technologies_1 = "";
-	$technologies_2 = "";
-	$technologies_3 = "";
-	$technologies_4 = "";
-	$technologies_5 = "";
-	$technologies_6 = "";
 	$hostess_job_title = "Hostess";
 	$wabi_sabi_job = "Wabi Sabi";
 	$wabi_years = "2019-2020";
@@ -70,11 +64,6 @@
 	$other_skills_2 = "supervised machine learning algorithms";
 	$other_skills_3 = "matpyplot";
 	$other_skills_4 = "sklearn";
-	$other_skills_5 = "";
-	$other_skills_6 = "";
-	$other_skills_7 = "";
-	$other_skills_8 = "";
-	$other_skills_9 = "";
 	$education_1 = "BSc in Applied Software Engineering";
 	$education_1_location = "Northern Kentucky Univeristy";
 	$education_1_years = "2023-2025";

@@ -44,17 +44,14 @@
 	$wabi_years = "2019-2020";
 	$wabi_sabi_job_desc = "Responsible for ensuring guests entering the building are seated efficently. Helped with the waitors/waitresses when they require help and I when I had no guests to escort to their seats. Ensured I equally gave each waitor/waitress the same amount of tables. In charge of cleaning and making sure bathrooms stayed clean. Help buss the tables and properly clean them. Assist whatever else if required that particualr day.";
 	$wabi_achievements_summary = "Maintained a resturant that was friendly and welcoming to incoming customers.";
-	//technologies used for wabi?
 	$cashier_job_title = "Cashier";
 	$taco_bell_job = "Taco Bell";
 	$taco_bell_years = "2018-2019";
 	$taco_bell_job_desc = "Greeted customers when they come to the register and helped assist them with any questions regarding the food. Ensured the lines moved fast and ensured customers got through the line as fast as possible. In charge of providing the right amount of change to customers and provided refunds when required.";
-	//technoligies at taco bell?
 	$drive_thru_title = "Drive - Thru Attendant";
 	$mcdonlads_job = "Mcdonalds";
 	$mcdonalds_job_years = "2017-2018";
 	$mcdonalds_job_desc = "Greeted customers with a smile and made sure the line kept moving to assist as many customers as possible and as fast as possible. Helped kitchen staff when they needed an extra hand and when I had no customers in the drive-thru.";
-	//Technologies used at mcdonalds?
 	$skills_1 = "Java";
 	$skills_2 = "PHP";
 	$skills_3 = "JavaScript";
